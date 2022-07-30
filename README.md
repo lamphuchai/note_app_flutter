@@ -18,7 +18,7 @@
 
 ## **Cài đặt**
 
-Clone repository của Money Man từ github về máy:	
+Clone repository của Note App từ github về máy:	
 
     $ git clone https://github.com/lamphuchai/note_flutter_app.git
 
